@@ -1,5 +1,14 @@
-### Hi there! I'm Web developer👋
-I am a developer who uses **Java** as my main language.
+## Hi there! I'm Web developer👋
+### I am a developer who uses **Java** as my main language.
+### My skills include
+- Java
+- JavaScript
+- Python
+- C
+- JSP
+- Oracle SQL
+- Git
+
 
 <!--
 **khs220507/khs220507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
