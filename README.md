@@ -8,7 +8,7 @@ I am a developer who uses **Java** as my main language.
 - Linux
 ### I studied at
 - Soongsil University - Electronic Engineering (2019.03~2021.08)   
-- Bitcamp - AI Developer Training Course (2021-)
+- Bit Academy - AI Developer Training Course (2021-)
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 
 
