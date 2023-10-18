@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there! I'm Web developer👋
+I use Java as my main language and know how to use Oracle SQL and JavaScript.
 
 <!--
 **khs220507/khs220507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
