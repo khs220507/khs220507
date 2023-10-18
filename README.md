@@ -9,6 +9,7 @@ I am a developer who uses **Java** as my main language.
 - Tensorflow
 - Oracle SQL
 - Git
+- Linux
 
 
 
