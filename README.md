@@ -6,6 +6,8 @@ I am a developer who uses **Java** as my main language.
 - Oracle SQL
 - Git
 - Linux
+### I studied at
+- Soongsil University (2019.03-2021.08)
 
 
 
