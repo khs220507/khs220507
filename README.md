@@ -2,9 +2,9 @@
 I am a developer who uses **Java** as my main language.
 ### My skills include
 - Java, JavaScript, JSP
-- Python, Tensorflow
+- Python, Tensorflow, Keras
 - C
-- Oracle SQL
+- Oracle SQL, MySQL
 - Git
 - Linux
 ### I studied at
