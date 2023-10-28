@@ -1,13 +1,13 @@
 ## Hi there! I'm Web developer👋
 I am a developer who uses **Java** as my main language.
+
 ### My skills include
 - Java, JavaScript, JSP
 - Python, Tensorflow, Keras
 - C
 - Oracle SQL, MySQL
-- Git
-- Linux
-- AWS
+- Git, AWS, Linux
+- 
 ### I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
