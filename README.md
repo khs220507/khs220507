@@ -1,4 +1,4 @@
-## Hi there! I'm Web developer👋
+## Hi there! Hyunsu Kim👋
 I am a developer who uses **Java** as my main language.
 ### My skills include
 - Java, JavaScript, JSP
