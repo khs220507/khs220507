@@ -6,7 +6,7 @@ I am a developer who uses **Java** as my main language.
 - Oracle SQL, MySQL
 - Git, GitHub, Jenkins
 - AWS EC2, AWS RDS
-- Linux
+- Ubuntu Linux
 ### I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
