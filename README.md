@@ -1,10 +1,9 @@
 ## Hi there! Hyunsu Kim👋
 I am a developer who uses **Java** as my main language.
 ### My skills include
-- Java, JavaScript, JSP
-- Spring, Spring Boot
+- Java, JavaScript, JSP, Spring
 - Python, TensorFlow
-- Oracle SQL, MySQL, MariaDB
+- Oracle SQL, MySQL
 - Git, GitHub, Jenkins
 - AWS EC2, AWS RDS
 - Ubuntu Linux
