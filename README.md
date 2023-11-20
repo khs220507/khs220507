@@ -4,7 +4,7 @@ I am a developer who uses **Java** as my main language.
 - Java, JavaScript, JSP, Spring
 - Python, TensorFlow
 - Oracle SQL, MySQL
-- Git, GitHub, Jenkins, Docker
+- Git, GitHub, Docker
 - AWS EC2, AWS RDS
 - Ubuntu Linux
 ### I studied at
