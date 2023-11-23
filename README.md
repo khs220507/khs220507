@@ -2,7 +2,7 @@
 I am a developer who uses **Java** as my main language.
 ### My skills include
 - Java, JavaScript, JSP, Spring
-- Python, TensorFlow
+- Python, TensorFlow, Pandas, NumPy
 - Oracle SQL, MySQL
 - Git, GitHub, Docker
 - AWS EC2, AWS RDS
