@@ -1,16 +1,16 @@
 ## Hi there! Hyunsu Kim👋
 I am a developer who uses **Java** as my main language.
-### My skills include
-## Web
+## My skills include
+### Web
 - Java, JavaScript, JSP, Spring
 - Oracle SQL, MySQL
 - Git, GitHub, Docker
 - AWS EC2, AWS RDS
 - Ubuntu Linux
-## AI
+### AI
 - Python, TensorFlow, Pandas, Numpy
 
-### I studied at
+## I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
 - Soongsil University - Bachelor's degree in Electronic Engineering (2019.03 ~ 2021.08)   
