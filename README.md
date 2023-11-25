@@ -8,8 +8,9 @@ I am a developer who uses **Java** as my main language.
 - AWS EC2, AWS RDS
 - Ubuntu Linux
 #### AI
-- Python, TensorFlow, Pandas, Numpy
-
+- Python
+- TensorFlow, PyTorch
+- Pandas, Numpy, Matplotlib
 ## I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
