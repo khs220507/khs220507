@@ -7,6 +7,10 @@ I am a developer who uses **Java** as my main language.
 - Git, GitHub
 - AWS EC2, Docker
 - Ubuntu Linux
+
+#### Project
+https://github.com/khs220507/Acorn-Baemin
+
 #### AI, BigData
 - Python
 - TensorFlow, PyTorch
