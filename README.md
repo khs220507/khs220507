@@ -1,10 +1,10 @@
 ## Hi there! Hyunsu Kim👋
 I am a developer who uses **Java** as my main language.
-## My skills include
 
-#### Portfolio
+## Portfolio
 - https://github.com/khs220507/Acorn-Baemin
 
+## My skills include
 #### Web
 - Java, JavaScript, JSP, Spring
 - Oracle SQL, MySQL, MyBatis
