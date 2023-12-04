@@ -9,7 +9,7 @@ I am a developer who uses **Java** as my main language.
 - Ubuntu Linux
 
 #### Team Project
-https://github.com/khs220507/Acorn-Baemin
+- https://github.com/khs220507/Acorn-Baemin
 
 #### AI, BigData
 - Python
