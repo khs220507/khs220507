@@ -8,7 +8,7 @@ I am a developer who uses **Java** as my main language.
 - AWS EC2, Docker
 - Ubuntu Linux
 
-#### Project
+#### Team Project
 https://github.com/khs220507/Acorn-Baemin
 
 #### AI, BigData
