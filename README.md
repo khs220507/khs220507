@@ -11,7 +11,6 @@ I am a developer who uses **Java** as my main language.
 - Git, GitHub
 - AWS EC2, Docker
 - Ubuntu Linux
-
 #### AI, BigData
 - Python
 - TensorFlow, PyTorch
