@@ -4,18 +4,6 @@ I am a developer who uses **Java** as my main language.
 ## Portfolio
 - https://github.com/khs220507/Acorn-Baemin
 
-## My skills include
-#### Web
-- Java, JavaScript, JSP, Spring
-- Oracle SQL, MySQL, MyBatis
-- Git, GitHub
-- AWS EC2, Docker
-- Ubuntu Linux
-#### AI, BigData
-- Python
-- TensorFlow, PyTorch
-- Pandas, Numpy, Matplotlib
-
 ## I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
