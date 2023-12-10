@@ -1,5 +1,4 @@
 ## Hi there! Hyunsu Kim👋
-I am a developer who uses **Java** as my main language.
 
 ## Portfolio
 - https://github.com/khs220507/Acorn-Baemin
