@@ -8,7 +8,6 @@
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
 - Soongsil University - Bachelor's degree in Electronic Engineering (2019.03 ~ 2021.08)   
 
-
 <!--
 **khs220507/khs220507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
