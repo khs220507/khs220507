@@ -1,13 +1,11 @@
 ## Hi there! Hyunsu Kim👋
-
 ## Portfolio
 - https://github.com/khs220507/Acorn-Baemin
-
 ## I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
-- Soongsil University - Bachelor's degree in Electronic Engineering (2019.03 ~ 2021.08)   
-
+- Soongsil University - Bachelor's degree in Electronic Engineering (2019.03 ~ 2021.08)
+- 
 <!--
 **khs220507/khs220507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
