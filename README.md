@@ -1,7 +1,6 @@
 ## Hi there! Hyunsu Kim👋
 ## Portfolio
 - https://github.com/khs220507/Acorn-Baemin - Acorn Academy (2023.10.20 ~ 2023.12.08)
-
 ## I studied at
 - Acorn Academy - Java Web Developer Training Course (2023.06 ~ 2023.12)
 - Bit Academy - AI Developer Training Course (2021.05 ~ 2021.11)
