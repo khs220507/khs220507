@@ -1,7 +1,6 @@
 ## Hi there! Hyunsu Kim👋
 
 ## Portfolio
-
 - https://github.com/khs220507/Acorn-Baemin - Acorn Academy (2023.10.20 ~ 2023.12.08)
 
 ## I studied at
