@@ -1,5 +1,4 @@
 ## Hi there! Hyunsu Kim👋
-## Portfolio
 - https://github.com/khs220507/Acorn-Baemin - Acorn Academy
 <!--
 **khs220507/khs220507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
