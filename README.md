@@ -15,5 +15,4 @@ Welcome to my GitHub profile! I am a passionate developer with experience in web
 
 **Bitcamp / Gangnam (2021.11 - 2022.05)**
 - AI Developer Training Program
-- **Projects**:
-  - MBTI-based Face Generation (OpenCV, YOLO v5, StyleGAN)
+- **Projects**: MBTI-based Face Generation (OpenCV, YOLO v5, StyleGAN)
