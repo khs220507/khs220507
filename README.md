@@ -1,16 +1,19 @@
-## Hi there! Hyunsu Kim👋
-- https://github.com/khs220507/Acorn-Baemin - Acorn Academy
-<!--
-**khs220507/khs220507** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a passionate developer with experience in web and AI development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎓 Education
+
+**Soongsil University (2019.03 - 2021.08)**
+- Electronic Engineering
+
+## 🏫 Training
+
+**Acorn Academy / Hongdae (2023.06 - 2023.12)**
+- JAVA WEB Developer Training Program
+- **Project**: Baemin Team Project (Spring, Mybatis, MySQL)
+
+**Bitcamp / Gangnam (2021.11 - 2022.05)**
+- AI Developer Training Program
+- **Projects**:
+  - MBTI-based Face Generation (OpenCV, YOLO v5, StyleGAN)
