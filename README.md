@@ -1,7 +1,6 @@
 # Hi there 👋
 
-Welcome to my GitHub profile! I am a passionate developer with experience in web and AI development.
-
+Welcome to my GitHub profile!
 ## 🎓 Education
 
 **Soongsil University (2019.03 - 2021.08)**
